@@ -15,7 +15,9 @@
 
 *Перевод названия главы будет появляться как только будет доступен перевод самой главы.*
 
-### Chapter 1. Building Abstractions with Functions 
+### Chapter 1
+
+* [1. Building Abstractions with Functions]()
 
 1.1 The Elements of Programming
 1.1.1 Expressions
