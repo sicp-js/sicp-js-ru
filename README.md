@@ -15,11 +15,12 @@
 
 *Перевод названия главы будет появляться как только будет доступен перевод самой главы.*
 
-### Chapter 1
+## Chapter 1
 
 * [1. Building Abstractions with Functions]()
+  * [1.1 The Elements of Programming]()
 
-1.1 The Elements of Programming
+
 1.1.1 Expressions
 1.1.2 Naming and the Environment
 1.1.3  Evaluating Operator Combinations 
