@@ -35,26 +35,12 @@
   * [1.2.4 Exponentiation]()
   * [1.2.5 Greatest Common Divisors]()
   * [1.2.6 Example: Testing for Primality]()
-
-
-
  
-
- 
-
- 
- 
-
-
-
-
-
-
-1.3  Formulating Abstractions with Higher-Order Functions 
-1.3.1  Functions as Arguments 
-1.3.2  Function Definition Expressions 
-1.3.3  Functions as General Methods 
-1.3.4  Functions as Returned Values 
+  * [1.3  Formulating Abstractions with Higher-Order Functions]()
+  * [1.3.1  Functions as Arguments]()
+  * [1.3.2  Function Definition Expressions]()
+  * [1.3.3  Functions as General Methods]()
+  * [1.3.4  Functions as Returned Values]()
 
 ### Chapter 2. Building Abstractions with Data
 
