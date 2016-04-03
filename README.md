@@ -98,7 +98,7 @@
   * [3.5.2  Infinite Streams]()
 
 ## Chapter 4
-* [4. Metalinguistic Abstraction]
+* [4. Metalinguistic Abstraction]()
   * [4.1 The Metacircular Evaluator]()
   * [4.1.1  The Core of the Evaluator]()
   * [4.1.2  Representing Statements and Expressions]() 
