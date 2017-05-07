@@ -19,7 +19,7 @@
 
 * [1. Построение абстракции с помощью функции](building-abstractions-with-functions/bawf.md)
   * [1.1.  Элементы программирования](building-abstractions-with-functions/ch1-1.md)
-  * [1.1.1  Выражения](building-abstractions-with-functions/ch1-1.md#1.1.1. Выражения)
+  * [1.1.1  Выражения](building-abstractions-with-functions/ch1-1.md)
   * [1.1.2  Naming and the Environment]()
   * [1.1.3  Evaluating Operator Combinations]()
   * [1.1.4  Functions]()
