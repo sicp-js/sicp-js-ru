@@ -8,8 +8,6 @@
 
 Взято [отсюда](http://www.comp.nus.edu.sg/~cs1101s/sicp/)
 
-# Gitbook - (Скоро будет)
-
 # Другие языки
 * [English (Original)](https://github.com/sicp-js/sicp-js)
 
@@ -19,7 +17,7 @@
 
 ## Chapter 1
 
-* [1. Построение абстракции с помощью функции]()
+* [1. Построение абстракции с помощью функции](building-abstractions-with-functions/bawf.md)
   * [1.1  The Elements of Programming]()
   * [1.1.1  Expressions]()
   * [1.1.2  Naming and the Environment]()
