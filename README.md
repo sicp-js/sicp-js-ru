@@ -19,7 +19,7 @@
 
 * [1. Построение абстракции с помощью функции](building-abstractions-with-functions/bawf.md)
   * [1.1.  Элементы программирования](building-abstractions-with-functions/ch1-1.md)
-  * [1.1.1  Expressions]()
+  * [1.1.1  Выражения](building-abstractions-with-functions/ch1-1.md#1.1.1. Выражения)
   * [1.1.2  Naming and the Environment]()
   * [1.1.3  Evaluating Operator Combinations]()
   * [1.1.4  Functions]()
@@ -76,7 +76,7 @@
   * [3.2 The Environment Model of Evaluation]()
   * [3.2.1  The Rules for Evaluation]()
   * [3.2.2  Applying Simple Functions]()
-  * [3.2.3  Frames as the Repository of Local State]() 
+  * [3.2.3  Frames as the Repository of Local State]()
   * [3.2.4  Internal Definitions]()
   * [3.3 Modeling with Mutable Data]()
   * [3.3.1  Mutable List Structure]()
@@ -92,7 +92,7 @@
 * [4. Metalinguistic Abstraction]()
   * [4.1 The Metacircular Evaluator]()
   * [4.1.1  The Core of the Evaluator]()
-  * [4.1.2  Representing Statements and Expressions]() 
+  * [4.1.2  Representing Statements and Expressions]()
   * [4.1.3  Evaluator Data Structures]()
   * [4.1.4  Running the Evaluator as a Program]()
 
